@@ -17,7 +17,7 @@ This project demonstrates how to automate the sending of messages using Python. 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/PyAutoMSG.git
+   git clone https://github.com/sifat-8208/PyAutoMSG.git
    ```
 2. Navigate to the project directory:
    ```bash
